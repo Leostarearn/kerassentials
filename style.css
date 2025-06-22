@@ -628,7 +628,7 @@ section ol {
       width: 100%;
       max-width: 100%;
       background-color: #027953;
-      padding: 15px 42px;
+      padding: 12px 30px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -680,6 +680,7 @@ section ol {
       font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       white-space: nowrap;
       padding: 0 20px;
+      line-height: 1;
     }
 
     .nav-links li a:hover {
@@ -723,12 +724,16 @@ section ol {
 }
 
 .nav-links li:last-child a.cta-button-top {
-  font-size: 0.95rem;
+  background-color: #FFD84A;
+  color: #453A00;
   font-weight: 600;
-  padding: 4px 18px;
+  font-size: 1.05rem;
+  padding: 6px 18px;
   border-radius: 6px;
+  text-decoration: none;
   line-height: 1;
   display: inline-block;
+  vertical-align: middle;
 }
 
     /* ✅ Footer Styling */
