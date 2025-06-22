@@ -628,7 +628,10 @@ section ol {
       width: 100%;
       max-width: 100%;
       background-color: #027953;
-      padding: 12px 30px;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      padding-left: 30px;
+      padding-right: 30px;
       display: flex;
       justify-content: space-between;
       align-items: center;
