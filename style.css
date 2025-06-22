@@ -704,20 +704,16 @@ section ol {
 .cta-button-top {
   background-color: #FABE04;
   color: #453A00;
-  padding: 0px 10px;
-  font-weight: 600;
+  font-weight: bold;
+  padding: 10px 20px;
   border-radius: 8px;
   text-decoration: none;
-  font-size: 1rem;
   white-space: nowrap;
-  transition: background-color 0.3s ease;
-  margin-left: 5px;
 }
 
 .cta-button-top:hover {
-  background-color: #e0aa00;
+  background-color: #f5c840;
 }
-
 
     /* ✅ Footer Styling */
     .footer {
