@@ -704,12 +704,14 @@ section ol {
 .cta-button-top {
   background-color: #FFD84A;
   color: #453A00;
-  font-weight: bold;
-  padding: 7px 24px;
-  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.95rem;        /* Slightly smaller for tight fit */
+  padding: 4px 18px;         /* Less top/bottom padding */
+  border-radius: 6px;
   text-decoration: none;
   white-space: nowrap;
- line-height: 1.1;
+  line-height: 1;            /* Exact line height to avoid extra space */
+  display: inline-block;     /* Fix alignment inside list */
 }
 
 .cta-button-top:hover {
@@ -721,12 +723,12 @@ section ol {
 }
 
 .nav-links li:last-child a.cta-button-top {
-  font-size: 1.15rem;
-  padding: 7px 24px;
-  border-radius: 10px;
+  font-size: 0.95rem;
   font-weight: 600;
-  line-height: 1.1;
-
+  padding: 4px 18px;
+  border-radius: 6px;
+  line-height: 1;
+  display: inline-block;
 }
 
     /* ✅ Footer Styling */
