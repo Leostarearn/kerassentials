@@ -705,7 +705,7 @@ section ol {
   background-color: #FFD84A;
   color: #453A00;
   font-weight: bold;
-  padding: 12px 30px;
+  padding: 10px 24px;
   border-radius: 8px;
   text-decoration: none;
   white-space: nowrap;
@@ -721,7 +721,7 @@ section ol {
 
 .nav-links li:last-child a.cta-button-top {
   font-size: 1.15rem;
-  padding: 12px 32px;
+  padding: 10px 24px;
   border-radius: 10px;
   font-weight: 600;
 }
