@@ -711,7 +711,7 @@ section ol {
   font-size: 1rem;
   white-space: nowrap;
   transition: background-color 0.3s ease;
-  margin-left: 20px;
+  margin-left: 5px;
 }
 
 .cta-button-top:hover {
