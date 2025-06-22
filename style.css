@@ -737,9 +737,13 @@ section ol {
   vertical-align: middle;
 }
 .nav-links li:last-child a.cta-button-top:hover {
-  background-color: #f5c840;
-  color: #FFAE00;
+  background-color: #FFAE00;
+  color: #ffffff;
 }
+.cta-button-top {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
     /* ✅ Footer Styling */
     .footer {
       background-color: #f9f9f9;
