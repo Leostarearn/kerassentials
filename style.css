@@ -721,7 +721,7 @@ section ol {
 .nav-links li:last-child {
   display: flex;
   align-items: center;
-  padding-right: 10px;
+  padding-right: 20px;
 }
 
 .nav-links li:last-child a.cta-button-top {
