@@ -702,10 +702,10 @@ section ol {
       box-sizing: border-box;
     }
 .cta-button-top {
-  background-color: #FABE04;
+  background-color: #FFD84A;
   color: #453A00;
   font-weight: bold;
-  padding: 10px 20px;
+  padding: 12px 30px;
   border-radius: 8px;
   text-decoration: none;
   white-space: nowrap;
