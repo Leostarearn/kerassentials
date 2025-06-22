@@ -705,10 +705,11 @@ section ol {
   background-color: #FFD84A;
   color: #453A00;
   font-weight: bold;
-  padding: 10px 24px;
+  padding: 6px 24px;
   border-radius: 8px;
   text-decoration: none;
   white-space: nowrap;
+ line-height: 1.1;
 }
 
 .cta-button-top:hover {
@@ -721,9 +722,11 @@ section ol {
 
 .nav-links li:last-child a.cta-button-top {
   font-size: 1.15rem;
-  padding: 10px 24px;
+  padding: 6px 24px;
   border-radius: 10px;
   font-weight: 600;
+  line-height: 1.1;
+
 }
 
     /* ✅ Footer Styling */
