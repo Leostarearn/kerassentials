@@ -721,6 +721,7 @@ section ol {
 .nav-links li:last-child {
   display: flex;
   align-items: center;
+  padding-right: 10px;
 }
 
 .nav-links li:last-child a.cta-button-top {
@@ -735,7 +736,10 @@ section ol {
   display: inline-block;
   vertical-align: middle;
 }
-
+.nav-links li:last-child a.cta-button-top:hover {
+  background-color: #f5c840;
+  color: #3a2f00;
+}
     /* ✅ Footer Styling */
     .footer {
       background-color: #f9f9f9;
