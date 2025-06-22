@@ -714,6 +714,17 @@ section ol {
 .cta-button-top:hover {
   background-color: #f5c840;
 }
+.nav-links li:last-child {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links li:last-child a.cta-button-top {
+  font-size: 1.15rem;
+  padding: 12px 32px;
+  border-radius: 10px;
+  font-weight: 600;
+}
 
     /* ✅ Footer Styling */
     .footer {
