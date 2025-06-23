@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /drafts/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://kerassentials.leostarearn.com/sitemap.xml
+Sitemap: https://kerassentials.leostarearn.com/uk/sitemap.xml
+Sitemap: https://kerassentials.leostarearn.com/au/sitemap.xml 
+Sitemap: https://kerassentials.leostarearn.com/sitemap_index.xml
